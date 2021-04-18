@@ -1,0 +1,25 @@
+{
+  "name": "dem-cli",
+  "version": "1.0.1",
+  "description": "模拟vue-cli2.x构建一个自己的cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dem": "index.js"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.2.0",
+    "download-github-repo": "^0.1.4",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.0.0",
+    "ora": "^5.0.0"
+  }
+}
