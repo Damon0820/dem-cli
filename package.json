@@ -1,6 +1,6 @@
 {
   "name": "dem-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "模拟vue-cli2.x构建一个自己的cli",
   "main": "index.js",
   "scripts": {
